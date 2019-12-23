@@ -1,2 +1,2 @@
 boot: boot.c
-		gcc -Wall -o boot boot.c -lwiringPi
+	gcc -Wall -o boot boot.c -lwiringPi
